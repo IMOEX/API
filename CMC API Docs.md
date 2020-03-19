@@ -1,5 +1,5 @@
 
-#   Api Docs(Chinese simplified document)
+#   Api Docs
 
 ## 1. open-api Catalog (example：cmc.imoex.top/api/*)
 -   [Assets of currency](#1)
